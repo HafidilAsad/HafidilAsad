@@ -1,8 +1,12 @@
+
 ## Hi there 👋
+
 ### Most Used Languages
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafidilAsad&layout=compact&langs_count=10" style="width: 100%; max-width: 600px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafidilAsad&layout=compact&langs_count=10" style="width: 100%; max-width: 600px; height: 180px;" />
 </div>
+
 
 
 
