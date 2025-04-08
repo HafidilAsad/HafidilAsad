@@ -7,6 +7,47 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafidilAsad&layout=compact&langs_count=10" style="width: 100%; max-width: 600px; height: 180px;" />
 </div>
 
+---
+
+### 🧠 Skills
+
+
+- React.js / Vite.js
+- Antd, Bootstrap, Bulma
+- C++ / Arduino
+- Express.js, Laravel, Nest.js
+- Nginx
+- Docker & Kubernetes
+- CCNA / Networking
+- Socket.io / WebSocket
+- Sequelize
+- TCP/IP
+- Git
+- GraphQL
+- Redux / Context API
+- MySQL / PostgreSQL
+
+---
+
+### 🎓 Certification and Training
+
+- Business Intelligence (Data Science / Analytics) – IMATAP
+- Mobile & Web App Development – IMATAP
+- SAP Connection & Practice
+- Junior to Senior Software Engineer Program – KELASCODE
+- Frontend Developer Bootcamp (React.js) – CINTESSA
+- Frontend Developer Webinar (React.js) – Edspert.id
+- Laravel Bootcamp – NUSACODE
+- Docker Security Hardening Webinar – LinuxHackingid
+- PLC & SQL Programming Training – KEYENCE
+- Air Energy Intelligent and Automation Workshop
+- Smart Maintenance for Predictive Data Training
+- Roboshop Integration using API & WebSocket
+- Basic SCADA Training (Mitsubishi, OPC UA & Web Interface)
+- CCNA 1 – 4 Training
+- IoT Development using Modbus and MQTT
+
+
 
 
 
