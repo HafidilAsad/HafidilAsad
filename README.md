@@ -1,6 +1,7 @@
 ## Hi there 👋
 ### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HafidilAsad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&langs_count=8&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **HafidilAsad/HafidilAsad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
