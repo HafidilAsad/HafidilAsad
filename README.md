@@ -15,7 +15,6 @@
 - React.js / Vite.js
 - React Native Expo
 - Antd, Bootstrap, Bulma
-- C++ / Arduino
 - Express.js, Laravel, Nest.js
 - Nginx
 - Docker & Kubernetes
@@ -29,7 +28,7 @@
 - MySQL / PostgreSQL
 - PLC
 - Iot
-
+- C++ / Arduino
 ---
 
 ### 🎓 Certification and Training
