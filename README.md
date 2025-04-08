@@ -7,12 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafidilAsad&layout=compact&langs_count=10" style="width: 100%; max-width: 600px; height: 180px;" />
 </div>
 
-### 📊 GitHub Stats
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=HafidilAsad)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
 ---
 
 ### 🧠 Skills
