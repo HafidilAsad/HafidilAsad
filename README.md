@@ -13,6 +13,7 @@
 
 
 - React.js / Vite.js
+- React Native Expo
 - Antd, Bootstrap, Bulma
 - C++ / Arduino
 - Express.js, Laravel, Nest.js
@@ -26,6 +27,8 @@
 - GraphQL
 - Redux / Context API
 - MySQL / PostgreSQL
+- PLC
+- Iot
 
 ---
 
