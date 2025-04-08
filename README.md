@@ -9,9 +9,8 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HafidilAsad&show_icons=true&theme=default&hide=contribs&count_private=true" style="width: 100%; max-width: 600px;" />
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=HafidilAsad)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ---
