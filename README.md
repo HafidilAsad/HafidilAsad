@@ -7,9 +7,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafidilAsad&layout=compact&langs_count=10" style="width: 100%; max-width: 600px; height: 180px;" />
 </div>
 
+### 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HafidilAsad&theme=default" style="width: 100%; max-width: 600px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HafidilAsad&show_icons=true&theme=default&hide=contribs&count_private=true" style="width: 100%; max-width: 600px;" />
 </div>
+
 
 ---
 
